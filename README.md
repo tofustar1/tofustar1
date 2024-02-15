@@ -1,10 +1,13 @@
+<h1 align="center">
+  Hi everyone, welocome to my page :)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbngwMDZkNXhrMHY4Ynpxb3F3bGYyemk0dGQ2Nmo2YXpzdzFyYmVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M4NykXxUE0HAcK7UJ6/giphy.gif" width="400"/>
 </div>
-<h1 align="center">
-  Hi, I'm Dmitrii 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+---
 
 ### 👨‍💻 About Me :
 I am a Web Developer from Kyrgyzstan 🇰🇬
