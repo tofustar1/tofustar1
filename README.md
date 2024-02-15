@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi everyone, welocome to my page :)
+  Hi everyone, welcome to my page :)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
